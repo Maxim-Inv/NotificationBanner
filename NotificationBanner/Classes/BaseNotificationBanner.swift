@@ -282,7 +282,7 @@ open class BaseNotificationBanner: UIView {
         } else if shouldAdjustForNotchFeaturedIphone() {
             return 40.0
         } else {
-            return 10.0
+            return 40.0
         }
     }
 
